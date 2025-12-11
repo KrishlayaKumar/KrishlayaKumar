@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="100" />
   <h1>Hi, I'm Krishlaya Kumar Singh 👋</h1>
   <p>
     <a href="https://github.com/KrishlayaKumar">
