@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBUtM5KpxMpSA0U/giphy.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="100" />
   <h1>Hi, I'm Krishlaya Kumar Singh 👋</h1>
   <p>
     <a href="https://github.com/KrishlayaKumar">
@@ -15,13 +15,11 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHd50xywtxvewY/giphy.gif" width="600" height="300"/>
-</div>
+		<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="600" height="300"/></div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrMEecVH/giphy.gif" width="35"> About Me
-
+## <img src="https://user-images.githubusercontent.com/74038190/240820597-a762dc06-3a4c-432e-8679-a99fe8a433b7.gif" width="35"> About Me
 **Full-stack developer** and **ML enthusiast** from India, currently studying at **SASTRA University**.
 
 I'm passionate about building **end-to-end products** - from data preprocessing and machine learning models to beautiful web interfaces and deployed applications. I love solving complex problems and creating impactful solutions.
