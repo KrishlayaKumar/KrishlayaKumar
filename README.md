@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Krishlaya Kumar Singh 👋</h1>
+  <h1>Hi, I'm Krishlaya Kumar👋</h1>
   <p>
     <a href="https://github.com/KrishlayaKumar">
       <img src="https://img.shields.io/github/followers/KrishlayaKumar?label=GitHub&style=social" />
